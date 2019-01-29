@@ -1,0 +1,5 @@
+git clone
+git init
+git status
+git comite:date time
+git add 
